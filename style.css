@@ -1,0 +1,23 @@
+ul {
+    list-style-type: none;
+}
+#board {
+    background: url("https://github.com/MyCloudAtl/u1_pokemon-api-lab/blob/main/assets/pokedex-3.jpeg?raw=true") no-repeat;
+    min-width: 500px;
+    min-height: 500px;
+}
+#pokemonImage {
+    background: black;
+    margin-left: 169px;
+    padding: 30px 44px;
+    margin-top: 109px;
+    border-radius: 5%;
+    width: 87px;
+    height: 79px;
+}
+#pokemonStats {
+    font-size: 12px;
+    text-align: justify;
+    margin-left: 158px;
+    margin-top: 103px;
+}
